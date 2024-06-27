@@ -10,7 +10,9 @@ Dive into the world of pizza sales to analyze customer behavior and study sales 
 
 # DATA SOURCE & METHODOLOGY 
 Pizza Hut provided the primary data source for this project, focusing on pizza sales analysis. The dataset was imported into the pgAdmin database management system, ensuring reliable and efficient data storage. During data preparation, specific columns were restructured or modified to facilitate easier analysis and querying, resulting in clean, relevant, and user-friendly data.
+
 The methodology involved solving 15 problem statements related to pizza sales using SQL queries. These problem statements, provided by Pizza Hut, guided the analysis and uncovered key insights into customer behavior and sales patterns. By leveraging SQL and the pgAdmin database system, we performed robust data manipulation and querying, enabling a comprehensive exploration of the dataset.
+
 This systematic approach ensured a thorough analysis of Pizza Hut's sales data, leading to valuable insights and conclusions that can inform sales strategies and enhance the overall pizza ordering experience.
 
 # DATASET
