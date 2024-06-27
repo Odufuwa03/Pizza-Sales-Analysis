@@ -17,9 +17,13 @@ This systematic approach ensured a thorough analysis of Pizza Hut's sales data, 
 
 # DATASET
 The dataset consist of 4 tables which are:
+
 The order_details table consist of the  order_details_id, order_id, pizza_id, quantity and its also contain 48,620 records.
+
 The orders table consist of the order_id, date, time. Its also contain 21,350 records.
+
 The pizza_types table consist of the pizza_type_id, name, category, ingredients and its also contains 32 different pizza types.
+
 The pizzas table consist of the pizza_id, pizza_type_id, size, price and its also contains 96 records of pizzas.
 
 # Queries of the project:
